@@ -1,0 +1,9 @@
+{
+  "name": "VÂNNHIBABY Shop Manager",
+  "short_name": "VÂNNHIBABY",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f1eb",
+  "theme_color": "#5b463d",
+  "icons": []
+}
